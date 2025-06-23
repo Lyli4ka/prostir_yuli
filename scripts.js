@@ -1,0 +1,1 @@
+// Updated scripts for animations and buttons
